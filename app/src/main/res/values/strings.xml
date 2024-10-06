@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">per6reminder</string>
+
+    <array name="opt_repeat">
+        <item>Once</item>
+        <item>Daily</item>
+        <item>Mon to Fri</item>
+    </array>
+</resources>
